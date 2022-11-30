@@ -38,8 +38,8 @@ function setTargets() {
   document.getElementById("book-source").target = "GitHub";
   
   let div = document.getElementById("main-nav").getElementsByTagName("nav")[0].getElementsByClassName("book-extra")[0];
-  createLink(div, "book-print", "en.pdf", "View printable book");
-  let nameOfPresentation = "presentation";
+  createLink(div, "book-print", "keemia-mms.pdf", "View printable book");
+  let nameOfPresentation = "keemia-mms";
   createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "Presentation");
 }
 

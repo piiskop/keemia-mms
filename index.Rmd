@@ -4,11 +4,10 @@ site: bookdown::bookdown_site
 author: "peacecop kalmer:"
 colorlinks: TRUE
 date: "`r Sys.Date()`"
-description: "This is the manual for creating content using RStudio Server."
+description: "Tallinna Ülikooli keskkonnakeemia ettekanne Master Mineral Solutionist"
 lang: en
 title: |
-    Manual for creating content using  
-    RStudio Server
+    MMS inimkehas ja ümbritsevas keskkonnas
 
 documentclass: book
 papersize: a4
@@ -215,23 +214,54 @@ render_color <- function(color, text) {
 
 ```
 
-# Introduction
+# Sissejuhatus
 
-Once upon a time, a student asked me to help him in R. i had no experience with R, however i gave it a chance. i installed RStudio Server. Months passed after my first use until i needed it for my stuff. i was studying statistics in a university and our teacher wanted us to create our solutions using a spreadsheet program. i saw that using R, i could learn more useful stuff and moved on RStudio Server. i learnt to create output using *bookdown* which is a library that can be used for creating websites or e-books while including calculations and graphs. As *bookdown* has a steap learning curve, i want to elaborate it here. Template strings are marked with angle brackets.
+Mis on MMS? Kui me elaksime umbes aastas 2000, siis tähendaks see paljude inimeste jaoks Multimedia Messaging Service't. Kui veel nutitelefone masskasutuses ei olnud, said inimesed üksteisele pilte saata kasutades mobiiltelefoni MMS-funktsionaalsust. MMS-sõnumi saatmine maksis oluliselt rohkem kui tekstisõnumi saatmine. Isegi emotikon sõnumis liigitas sõnumi multimeediasõnumiks. Tänapäevas, kui kasutame nutitelefone, saadame pilte kasutades erinevaid Interneti programme ja enam multimeediasõnumina reeglina pilte ei saada. Seega pole akronüüm MMS selles kontekstis enam ajakohane.
 
-For me, regarding cross-references, the following things are important:
+Kui otsida selle akronüümi järgi veebist, siis võime ka sattuda sellise toote nagu *M&M's* peale. Tegemist on värvilise glasuuriga šokolaadinööpidega, millest igaühe peale on trükitud *m*. Neid müüakse siiamaani. Ükskord tegin nendega lausa eksperimendi: panin taldrikule hulga neid komme, lisasin vett ja lasin seista. Värviline glasuur lahustus vees ja valgus laiali moodustades värviliste ribadega kunstiteose.
 
-1. It must be possible to cross-reference between files.
+Populaarne tähendus akronüümile MMS on ka Master Mineral Solution ja just sellest siinne ettekanne on ning edaspidi kasutan lühendit MMS just selles mõistes. Mida see nimi tähendab? Alustan selgitamist lõpust. Tegemist on lahendusega. Mida see lahendab? Kindlasti mingit probleemi. Mis võiks olla see probleem, mida MMS lahendab? Vahel lastakse raadio kaudu reklaami, mis kõlab umbes nagu: "Kujuta ette, et su kontorisse on astunud elevant!" Tulemusena on asjad kontoris nii segamini, et ise enam koristada ei jõua ja vaja on appi kutsuda koristaja. MMS on selline koristaja, nagu oleme näinud mõnest filmist, milles on vaja laibast lahti saada ja siis tuleb appi koristaja, kes koristab ümbruskonna selliseks, et isegi laibatekitamisest enam jälgi pole. Vahel näeme ka seriaalidest või filmidest, kuidas punt programmeerijaid millegi loomisse keskendub, mistõttu neile tuuakse pitsat, friikartuleid ja kofeiinijooke, mida nad tarbivad, kuid neil pole aega koristamiseks ja nii nad jätavad pakendid vedelema. Mõne aja pärast on pakendeid nii palju, et nad ei suuda selles keskkonnas enam töötada. Vaja on koristajat.
 
-2. R code in one file must be accessible in another file.
+Kui inimene elab tervislikku elu, siis pole tal vaja MMS'i mitte kunagi tarvitada. Kõik sellised programmeerijad inimese kehas saavad vabalt toimetada saades piisavalt toitu ning nad ei upu prahi sisse. Kui siiski inimese kehasse kuhjub liiga palju rämpsu, ei suuda keha ise seda väljutada, mistõttu on vaja välist sekkumist. Nii saabki appi võtta vahendi, mis sellega suurepäraselt toime tuleb.
 
-3. Citations in table captions using `kableStyling` must be possible.
+Nii et MMS on lahendus mustusprobleemile.
 
-Currently, *bookdown* supports all of them.
+Mida tähendab keskmine sõna *Mineral*? Mineraal on looduslik anorgaaniline tahke kristalne aine. Naatriumklorit, millest MMS valmistatakse, ei esine looduslikult, kuid seda saab soolakristallidest elektrolüüsiga valmistada.
 
-we can see the workflow of from the written markdown to the ready output on the figure \@ref(fig:workflow).
+Mida tähendab esimene sõna *Master*? Kui inimene kasutab oma keha puhastamiseks MMS'i, siis ta ei vaja muid farmaatsiatooteid, mistõttu on MMS peamine organismi puhastusvahend.
 
-```{r label = "workflow", fig.cap = paste("The workflow from the written markdown to the ready output using *bookdown*", render_with_emojis(text = "((ref:riederer-122))"), ".", sep = "")}
-include_external_graphics("rmd/workflow.png")
+Kui inimese organism on piisavalt puhas, siis selles tööjõu puudust ei esine. Kõik keha komponendid saavad kenasti oma ülesannetega hakkama ja organism toimib. Sellise organismiga inimesed on paraku vähemuses, sest elame maailmas, milles tahame proovida erinevaid maitseid ja närida erinevaid sööke, millest paljud ei ole inimorganismisõbralikud ja moodustavad prahi. Kui inimese organism sellest prahist lahtisaamisega ise toime ei tule, eksisteerib töö jõu puudus. Vastupidine olukord ehk tööpuudus oleks lausa tore. See tähendaks olukorda, milles organismis on kasutamata varusid. Töö jõu puuduse korral on vaja välist abi, sest muidu tekib haiguslik olukord, mille lõppstaadium on vähk. Kui organismis on töö jõu puudus, saame oma keha aidata *outsource*ides koristusteenust - kutsume appi MMS'i.
 
-```
+Mis MMS keemiliselt on? Tegemist on kloritiga. Kui kloritit manustada liiga palju, keha sureb. Kui kloritit manustada liiga vähe, pole sellest abi. Sobilik kogus on oluline. Näiliselt kui terve armee koristajaid korraga peale lendavad, koormavad nad organismi nii üle, et selles ei saa enam midagi teha ja see laguneb ära. Kui tuleb liiga vähe koristajaid, siis nad ikkagi ei jõua kogu organismi koristada ja mattuvad ka ise prahi alla. Seega on sobilik kogus koristajaid oluline.
+
+Väidetavalt avastati klorit juba 19. sajandis ning tänapäevani kasutatakse seda vee desinfitseerijana. Klorit on tugev oksüdeerija ja tapab batsille. Inimorganismis surmab see kahjulikud võõrkehad, kuid inimese enda rakke ei mõjuta. Seetõttu seda nimetatakse ka universaalseks antidoodiks.
+
+Kui jim humble oli ekspeditsioonil Lõuna-Ameerikas, haigestus üks ta grupi liige malaariasse. Meedikuid läheduses polnud ja jim mõtles, kuidas teda aidata. talle meenus, et kui kehas on haiguslik seisund, on järelikult kuskil liiga palju rämpsu ja keha vajab puhastamist. Kuna vett saab puhastada kloritiga, proovis jim seda kähku kokku segada ise ja seda oma kaaslase peal katsetada. Kuna mehe keha paranes, pühendus jim oma edasise elu kloriti tootmise ja kasutamise uurimisele seoses meditsiiniga. Kui sõna MMS'st kui imetoidulisandist levis piisavalt suure massi inimesteni, hakkasid farmatseudid kartma, et nende kasum väheneb, kui inimesed MMS'i massiliselt kasutusse võtavad - enam pole muid vahendeid vaja ja MMS'i toota on suhteliselt odav. Seetõttu alustati propagandat MMS'i vastu. Mindi lausa nii kaugele, et MMS'i videod eemaldati populaarsetest videokeskkondadest, vastavad kanalid suleti, sotsiaalvõrgustike vastavad grupid, kus oli kümneid tuhandeid liikmeid, suleti. MMS'i müük keelati. jim leidis lahenduse kiriku loomise kaudu. ta lõi *Genesis 2* kiriku, mille kaudu jätkas MMS'i teabe levitamist. Usuvabadus ju! Siiski teda jahiti ja ta pages Mehhikosse, kus saab segamatult tegutseda. Oma videotes ta rõhutab, et ta ei müü MMS'i ega ei soovita kellelgi ka järgida tema juhiseid, kuid ta tutvustab lihtsalt, kuidas tema seda teeb.
+
+Eestisse on MMS'i suurim propageerija janika veski, kelle keha beebist poeg oli surmaohus: kopsu kogunes vesi ja seda oli vaja välja pumbata. Kuna haiglas abi ei saanud, siis ta otsis alternatiivseid võimalusi. Kui ta leidis MMS'i teabe, katsetas seda esmalt enda ja elukaaslase peal ning seejärel beebi peal. Peagi ei olnud enam kuulda beebi rögisevat hingamist ja ta arvas, et nüüd on kops jälle vett täis ja vaja tühjendada. Selgus, et kops oli puhas. Poisi keha oli tervenenud. MMS'i propageeris ka merili kukuškin, kes eemaldati Tallinna Tehnikaülikoolist seetõttu. ta liitus ühe mehega, kellega nad lõid Mineral Gardeni, milles müüvad MMS'i vahendeid suupuhastusvahendina.
+
+Hispaanias elab sakslane andreas kalcker, kes on üle kümne aasta uurinud MMS'i. temal on oma koduleht, milles ta jagab oma leiutiste infot. Videod on hispaania, inglise ja saksa keeles ning tema kirjutisi on tõlgitud ka eesti keelde. ta on muuseas leiutanud viisi, kuidas MMS'i toota pikemaks ajaks kui vaid paar päeva, sest klorit on ebastabiilne gaas ja lendub.
+
+MMS'i protokolle on palju. Seda saab tarvitada nii sees- kui välispidiselt, nii suu kaudu kui otse verre süstides.
+
+Kuna MMS'st palju räägiti ja esinesid vastuolulised väited, otsustasin selle aine mõju enda keha peal järele proovida. Tellisin pudeli naatriumkloritit ja pudeli vesinikkloriidhapet. See jäi mul kauaks seisma, sest polnud mahti katsetada. Ükskord oli mul suur soov osaleda jooksusündmuses, aga mu põlv oli juba tükk aega nii valus, et ei lubanud joosta. Katsetasin MMS'i välispidiselt õliga DMSO eelnevas õhtus ja vastavas hommikus. Jooksu algusajaks oli põlvest valu kadunud ja see ei naasnudki enam. Eelmises õppeaastas haigestus mu keha ilmselt Covid-19 omikroni. Oli kõrge palavik ja enesetunne oli väga kehv. Otsustasin koheselt rakendada MMS'i seespidiselt alustades Protocol-1000 järgimist, mis tähendas nelja nädala kestel igapäevaselt kaheksat manustamiskorda tunniste vahedega. Nelja päevaga oli keha tervenenud. Jätkasin protokolli järgimist, et teha ka järelpuhastus. Suutsin kolm nädalat protokolli järgida, kui loobusin, sest pärast manustamist oli mu enesetunne kehvem kui enne. Põhjus oli ilmselt kasemahlaga segamises, mis on klooritagi lääge. Nüüd aga oskaksin juba luua segu, mis ei tekitaks kehva enesetunnet.
+
+Kuidas MMS'i valmistada, selle kohta lõin eelmises õppeaastas ülesanded. Naatriumkloriti segamisel vesinikkloriidhappega tekivad vesi, sool ja klorit. Sool on inimese kehale nagunii vajalik, vesi samuti. Ja klorit on mõjuaine. Seega on tegemist ka keskkonnasõbraliku ainega. MMS'i kasutades hoolitseme oma keha ja ümbritseva keskkonna eest. Ei teki mürgiseid jääke, mida peaks kuskile ladustama ja valuutat ei kulu ka liiga palju. Lisaks ei pea muretsema kõrvalmõjude pärast. Ning vabaneb hulganisti resurssi farmatseutide tootmisest.
+
+mina soovitan elada nii tervislikku elu, et sul ei ole vaja kehal väliselt aidata end puhastada. inimese keha saab väga hästi ise enda korras hoidmisega hakkama. Kui aga ei saa, siis on MMS abiks, mistõttu võiks see kuskil sahtlis või kapis varuks olla.
+
+$$`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{{\huge\color{green}{5}Na\color{green}{ClO2} + \color{blue}{4}H\color{blue}{Cl} ->\\
+\color{blue}{4Cl}O_2 + \color{green}{5}Na\color{green}{Cl} + {\bf2H_2O}}}$$
+
+$$\huge\color{green}{5}\ce{Na}$$
+
+$$\ce{Zn^2+
+<=>[+ 2OH-][+ 2H+]
+$\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$
+<=>[+ 2OH-][+ 2H+]
+$\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$
+}$$
+
+$$\ce{\underbrace{NaClO_2}_{naatriumklorit} + $\underset{\text{maohape}}{\ce{HCl}}$ -> \underbrace{ClO_2}_{klorit} + \underbrace{NaCl}_{lauasool} + \underbrace{H_2O}_{vesi}}$$
+
+$$\mathrm{{\huge\color{green}{5}Na\color{green}{Cl}O_2 + \color{blue}{4}H\color{blue}{Cl} \rightarrow \color{blue}{4Cl}O_2 + \color{green}{5}Na\color{green}{Cl} + {\bf2H_2O}}}$$

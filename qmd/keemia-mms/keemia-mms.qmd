@@ -1,0 +1,306 @@
+---
+author:
+  - name: 'peacecop kalmer:'
+bibliography: keemia-mms.bib
+title: "MMS'st CDS inimese organismis ja ümbritsevas keskkonnas"
+output-file: ../../_book/keemia-mms.html
+format:
+  revealjs:
+    incremental: true
+    self-contained: true
+
+---
+
+## MMS: mis see on?
+
+## MMS: Multimedia Messaging Service?
+
+@ocallaghan_2022_ankle, p. 2
+
+## MMS: *M&M's*?
+
+![*M&M's*i kommidest saab teha mitmevärvilise kunstiteose. @mms](MMs.jpg)
+
+## MMS: Master Mineral Solution!
+
+- Solution:
+
+    - lahend ja
+    
+    - lahus.
+
+- Mineral:
+
+    - ühtlane,
+    
+    - anorgaaniline,
+    
+    - looduslik,
+    
+    - aine (@haldar_2013_mineral, p. 2).
+    
+    - $`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{ClO3}$: plahvatusohtlik gaas.
+
+- Master.
+
+## Omadused
+
+- Nõrk (@MMS) või tugev (@unpaired_overall, p. 2) oksüdeerija.
+
+- Kiire desinfitseerija (@unpaired_overall, p. 2).
+
+- Toatemperatuuril gaasiline, lahustunud lahuses.
+
+## Toime
+
+- Hävitab haigustekitajad ja nende toodetud mürgid keha kahjustamata (@MMS).
+
+- Sobilikus koguses pole mürgine nahale ega siseelundkonnale.
+
+## Kasutusvaldkonnad
+
+- Vee desinfitseerimine (kuni 10 ppm ohutu kaladele),
+
+- valgendamine (pleegitava tselluloosi toodang $500 \cdot \mathrm{\frac{t}{a}}$ (@unpaired_overall, p. 4)),
+
+- vanade paberdokumentide puhastamine,
+
+- inimkeha desinfitseerimine,
+
+- toidu desinfitseerimine,
+
+- instrumentide ja klaasnõude külm sterilisaator (@unpaired_overall, p. 2).
+
+## Ajalugu
+
+- 1811: Humphrey Davy, $\ce{HCl + KClO3}$, eukloor.
+
+- 1834: Watt ja Burgess, eukloor valgendina.
+
+- 20\. saj algus: Spaa Ostendis, Belgias, vee desinfektsioonivahend.
+
+- 1940: Olin Corporation, $\ce{NaClO2}$ pulber.
+
+- 1944: Niagara Falls, veepuhastusprotsessis (@unpaired_overall, p. 4).
+
+- 1978: Alliger, inimkehale määrimine. (@unpaired_overall, p. 2.)
+
+## Kaasaeg
+
+- 1996: Jim Humble, malaariapuhang, MMS1 (@MMS).
+
+- Janika Veski (@mms),
+
+- Andreas Kalcker (@andreas).
+
+## Protokollid
+
+- *MMS-1000*, *MMS-1000+*,
+
+- *CDS-1000*, *CDS-101*,
+
+- *CDS 115* - dengueprotokoll,
+
+- *5/5-100* - intensiivne protokoll,
+
+- *2000*: MMS1 + MMS2, *3000*: MMS1 + dimetüülsulfoksiid (väline), *4000*,
+
+- malaariaprotokoll,
+
+- Clara *6+6* - šoki ravi,
+
+- CDI: kloriti IM/VI süstid (@healing).
+
+## Reis
+
+![Vigastasin sprintides reielihast, abi oli MMS'st.](thigh.png)
+
+## Põlv
+
+![Sain *Rõõmumeetriks* põlve terveks MMS'i abiga. (@rmumeeter)](600-900-max.jpg)
+
+## Hambad
+
+- Ei tohi hõõruda,
+
+- tuleb loputada (@a2019_mms1).
+
+## *Protocol 1000*
+
+- kuni kolm tilgapaari korraga,
+
+- niimoodi iga tund,
+
+- kaheksa tundi järjest,
+
+- iga päev,
+
+- 21 päeva järjest. 
+
+## Covid-19 omikron?
+
+- *1000*
+
+- kasemahlaga
+
+- seitse ja pool päeva.
+
+## MMS1 valmistamine
+
+Kloriti tootmine naatriumkloritist ja maomahlast.
+
+## Lähteained
+
+- 80\% $`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{NaClO_2}$ pulber või helbed säilib(vad) paarkümmend aastat, külmutatuna igavesti (@what, p. 5),
+
+- destilleeritud või pigem demineraliseeritud vesi,
+
+- 4\% $\ce{HCl}$ vesilahus.
+
+## $\ce{NaClO2}$ protsentuaalne koostis
+
+- $\ce{Na}$: 25.421,
+
+- $\ce{Cl}$: 39.198,
+
+- $\ce{O}$: 35.381.
+
+## Tihedused
+
+- $\ce{NaClO2}$: $\frac{122 \cdot \mathrm{g}}{100 \cdot \mathrm{ml}} \pm \frac{2 \cdot \mathrm{g}}{100 \cdot \mathrm{ml}}$.
+
+- $\ce{HCl}$: $1.0181 \times 10^3 \times \frac{\mathrm{kg}}{\mathrm{m^3}}$ (@the).
+
+- $\ce{H2O}$: $9.802 \times 10^2 \times \frac{\mathrm{kg}}{\mathrm{m^3}}$ (@waterscienceschool_2018_water).
+
+## $`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{NaClO_2}$ vesilahus: tekst
+
+- Tahkest $\ce{NaClO_2}$'st (29\%) ja veest (71\%) 23\% $`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{NaClO2}$ vesilahus (@what, p. 1).
+
+- Kui tahket osa on $2.5 \times \mathrm{kg}$, siis vett tuleb lisada $6.2 \times \mathrm{kg}$.
+
+- Kogu lahus kaalub $9 \cdot \mathrm{kg}$.
+
+- Kogu lahuse hoiustamiseks on vaja vähemalt $8 \cdot \mathrm{l}$ nõud.
+
+## $`r if (knitr::is_html_output()) { "\\require{mhchem}" }`\ce{NaClO_2}$ vesilahuse tegemise skeem
+
+![Vasakul on 23\% naatriumkloriti lahus, paremal on 80\% $\ce{NaClO_2}$ pulber. Leia viga!](vee-lisamine-80-lahusele.svg)
+
+## Lähteained ja saadused
+
+$$\ce{\underbrace{NaClO_2}_{naatriumklorit} + \underbrace{HCl}_{maohape} \rightarrow \underbrace{ClO_2}_{klorit} + \underbrace{NaCl}_{lauasool} + \underbrace{H_2O}_{vesi}}$$
+
+## Reaktsioonivõrrand
+
+- $$\huge{\color{green}{5}\ce{Na}\color{green}{\ce{Cl}}\ce{O2} + \color{blue}{4}\ce{H}\color{blue}{\ce{Cl}} \ce{->}\\
+\color{blue}{\ce{4Cl}}\ce{O2} + \color{green}{5}\ce{Na}\color{green}{\ce{Cl}} + \bf \ce{2H2O}}$$
+
+  (@moratalla_2022_full).
+
+- Rada MathCityMapis, mis sisaldab ülesandeid selle võrrandi loomiseks: *398852* (@portal).
+
+## Kogused aktiveerimiseks
+
+- Sobilik kogus $1 \cdot \frac{\text{mg }\ce{NaClO2}}{\text{(kg keha)} \cdot \mathrm{d}}$ (@a2021_dr).
+
+- Kolm tilka MMS'i ja kolm tilka 4\% $\ce{HCl}$ lahust (@a2021_jim).
+
+- Oodata $30 \cdot \mathrm{s}$, kuni segu muutub tumekollaseks - naatriumkloriti aktiveerumine!
+
+- Parim teha külmikus, sest $\ce{ClO2}$ lendub juba alates $284 \cdot K$ juures (@cds).
+
+## Tarbimissegu kogused
+
+- Ühe tilga ruumiline maht: $.042 \times \mathrm{ml}$ (@MMS-dosage, p. 5).
+
+- Tumekollasele segule lisatakse $120 \cdot \mathrm{ml}$ vett.
+
+- Saavutatakse $20 \cdot \text{mg } \ce{ClO2}$ (minu arvutuste järgi $2.1094^{-5} \times \text{kg } \ce{ClO2}$, saagis 0.94812).
+
+- Surmav kloriti doos olevat umbes $3 \cdot \frac{\text{mg }\ce{ClO2}}{\text{kg keha} \cdot \mathrm{d}}$ (@cds).
+
+## CDS: kloriti lahus
+
+- Maohape kasutatakse täielikult ära.
+
+- Naatriumkloritit jääb üle aktiveerumaks maos.
+
+## Alternatiivne hape
+
+- 50\% sidrunihappe vesilahus.
+
+- $\ce{15 NaClO2 + 4 C6H8O7 ->\\
+  12 ClO2 + 4 C6H5Na3O7 + 3 NaCl + 6 H2O}$.
+
+## Krooniline atroofiline kandidoos enne
+
+![Enne CDS'i kasutamist (@columbus_2004_clinical, p. 156).](candidosis-before.png)
+
+## Krooniline atroofiline kandidoos pärast
+
+![Pärast 0.8\% CDS'i kasutamist (@columbus_2004_clinical, p. 156).](candidosis-after.png)
+
+## Millest lahti saada?
+
+- Vähist,
+
+- Alzheimeri, Parkinsoni tõvest, dementsusest,
+
+- läbipõlemisest ja depressioonist,
+
+- autismist,
+
+- ülekaalulisusest,
+
+- diabeedist,
+
+- malaariast,
+
+- gripist,
+
+- koroonast
+
+- ... (@healing).
+
+## Kust saada?
+
+- Laboratoriumdiscounter (@wwwinstijlmedianl_natriumchloriet),
+
+- Mineralgarden.org (@komplekt).
+
+## Miks püütakse keelustada?
+
+- Röövib farmatseutidelt sissetuleku?
+
+- Plutooniumi saab kasutada nii elektrienergiaks muundamiseks kui pommiks.
+
+- Pole piisavalt uuritud, mistõttu hirm.
+
+## Keskkonnamõju aastas
+
+- 80\% $\ce{NaClO2}$ pulber (@characteristics) ja 15\% $\ce{HCl}$ (@wwwinstijlmedianl_hydrogen): 22 * EUR.
+
+- MMS1 komplekt:  55 * EUR.
+
+- Hambapasta: 12 * EUR.
+
+## Eelised
+
+- Süvapuhastus,
+
+- harjumine maitsega,
+
+- mitmeotstarbeline.
+
+## Kestliku arengu eesmärgid (KAE'd)
+
+![KAE'de saavutamisele aitab MMS ka kaasa (@unitednations_2018_communications)](sdgs.png)
+
+## Ela tervislikult ja sul pole MMS'i vaja!
+
+Kirjalikus referaadis saavad olema põhjalikud selgitused näidisarvutustega ja piltidega.
+
+[MMS'i ettekanne](index.html)
+
+## Välised allikad
