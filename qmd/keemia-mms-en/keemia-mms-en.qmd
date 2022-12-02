@@ -2,7 +2,10 @@
 author:
   - name: 'peacecop kalmer:'
 bibliography: keemia-mms-en.bib
-title: "Individual experiences with chlorine dioxide (CDS)"
+title: |
+    | Individual experiences with
+    | chlorine dioxide solution
+    | (CDS)
 output-file: ../../_book/keemia-mms-en.html
 format:
   revealjs:
