@@ -40,6 +40,8 @@ function setTargets() {
   let div = document.getElementById("main-nav").getElementsByTagName("nav")[0].getElementsByClassName("book-extra")[0];
   createLink(div, "book-print", "keemia-mms.pdf", "View printable book");
   let nameOfPresentation = "keemia-mms";
+  createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "Esitlus");
+  nameOfPresentation = "keemia-mms-en";
   createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "Presentation");
 }
 

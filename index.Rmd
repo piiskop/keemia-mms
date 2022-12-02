@@ -5,7 +5,7 @@ author: "peacecop kalmer:"
 colorlinks: TRUE
 date: "`r Sys.Date()`"
 description: "Tallinna Ülikooli keskkonnakeemia ettekanne Master Mineral Solutionist"
-lang: en
+lang: et
 title: |
     MMS inimkehas ja ümbritsevas keskkonnas
 

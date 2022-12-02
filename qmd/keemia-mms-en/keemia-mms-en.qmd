@@ -1,0 +1,123 @@
+---
+author:
+  - name: 'peacecop kalmer:'
+bibliography: keemia-mms-en.bib
+title: "Individual experiences with chlorine dioxide (CDS)"
+output-file: ../../_book/keemia-mms-en.html
+format:
+  revealjs:
+    incremental: true
+    self-contained: true
+
+---
+
+## The human body
+
+has automated processes
+
+## with countless workers
+
+![A frame from "Silicon Valley" (3 / 9, 0:25:17 - 0:28:50) shows countless workers creating fake accounts (@fake).](Screenshot at 2022-12-02 00-59-11.png)
+
+## creating waste.
+
+![If you are covered by waste you cannot perform efficiently (@body).](waste.png)
+
+## How healthy do we want to be?
+
+![Living a healthy life as a human means avoiding everything that is not meant for a human body (@tcfry_life).](hot-cold-drink.png)
+
+## Overload of waste
+
+![The vicious cycle of toxic overload (@detoxification).](toxic-overload.jpg)
+
+## Outsourcing cleaners
+
+![Janitors cleaning on the hallway (@cleaning_2020_benefits).](Benefits-Of-Outsourcing-Janitorial-Services-For-Your-Business-1-640x426.jpeg)
+
+## Adverse side effects on a human body
+
+![COVID-19 mRNA vaccines increase risk of cardiac-related death, says Florida Surgeon General (@covid19).](file-photo-boxes-of-walvax-biotechnologys-mrna-covid-19-vaccine-are-displayed-at-a-trade-fair-in-shanghai.webp)
+
+## Hiding a problem
+
+![*Solpadeine* only hides pain and does not remove its source (@alates).](solpadeine.jpeg)
+
+## Professional cleaners remove the source of a disease.
+  
+![The health pyramid (@tya.EBC25919720030101, p. 42).](health-pyramid.png)
+
+## Controversy of CDS
+
+- For and
+
+- against.
+
+## Experience is knowledge.
+
+| Product | Price |
+|---------|-----:|
+| SET: NaClO2 Mouth Rinse and HCl Hair Rinse      | 25.00   |
+| DMSO (DIMETHYLSULFOXIDE)     | 24.00  |
+
+: The reagents for making CDS with their prices were bought on 2021/05/04.
+
+![Mixing sodium chlorite solution (Master Mineral Solution, MMS) with hydrochloric acid solution results in CDS (@komplekt).](mineral-garden_hcl_600x600px.webp)
+
+## Knee
+
+![my body became wholesome for *Rõõmumeeter* and my knee was healed with the help of Master Mineral Solution (MMS). (@rmumeeter)](600-900-max.jpg)
+
+## Teeth
+
+- Do not rub,
+
+- must be rinsed (@a2019_mms1).
+
+## War against evil
+
+| Date | Temperature (K) |
+|---|---:|
+| 2022-02-25 11:16:00 |	310.65 |
+| 2022-02-25 07:56:00 |	310.85 |
+| 2022-02-25 02:09:00 |	310.75 |
+| 2022-02-24 16:23:00 |	310.85 |
+| 2022-02-24 15:17:00 |	310.85 |
+| 2022-02-24 13:46:00 |	310.95 |
+| 2022-02-24 11:14:00 |	310.85 |
+
+: The temperature of the surface of my body between 2022-02-24 11:14:00 and 2022-02-25 11:16:00 (@_2022_mehaanikapraktikum).
+
+## Covid-19 omikron?
+
+- *1000*
+
+- with birch sap
+
+- seven and a half days.
+
+## *Protocol 1000*
+
+- Up to three pairs of drops at a time
+
+- every hour
+
+- eight hours in a row
+
+- every day
+
+- 21 days in a row (@a2021_jim).
+
+## Who is right?
+
+- The proponents are right.
+
+- The antagonists are right and they would be left... in suffering.
+
+## Live healthily and you don't need MMS!
+
+The written report will have comprehensive explanations with sample calculations and pictures.
+
+[MMS'i ettekanne](index.html)
+
+## External sources
